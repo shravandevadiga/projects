@@ -1,5 +1,4 @@
 # projects
 mobile and os maven project   
-Usage of GetMapping and PostMapping with respect to Postman local host connected via application properties file and run monitors directly through the API.
- Data can be feasibile in JSON format.
-Tools and Technologies Used : Eclipse , Postman | RequestBody , RestController , SpringBootApplication from mvn repository.
+This project is created using framework which can performs CRUD operation that is create , Update and delete with respect to our database.(JDBC)
+Used : Eclipse , mysql workbench  Hibernate core and mysql connector  from mvn repository.
